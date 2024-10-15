@@ -1,0 +1,32 @@
+# Flask e suas dependências
+Flask==2.3.2
+flask-cors==3.0.10
+werkzeug>=2.3.3
+
+# OpenCV para manipulação de imagens e vídeos
+opencv-python==4.7.0.72
+
+# NumPy para operações com arrays
+numpy==1.24.3
+
+# PyTorch para carregar o modelo YOLOv5
+torch>=1.7.0
+torchvision>=0.8.1
+
+# YOLOv5 (via ultralytics)
+ultralytics>=8.0.111
+
+# Detecção de versão de pacotes
+packaging==23.1  # Inclua esta linha para garantir que a biblioteca packaging está instalada
+importlib-metadata==6.0.1
+
+# Sistema operacional e manipulação de arquivos
+psutil>=5.9.0
+
+# Setuptools para garantir pkg_resources
+setuptools>=65.5.1
+
+# CORS para controle de recursos
+Flask-Cors==3.0.10
+
+scipy==1.12.0
