@@ -57,4 +57,4 @@ def return_file():
         return str(e)
 
 if __name__ == '__main__':
-    app.run(host='192.168.18.16', port=5000)
+     app.run()
