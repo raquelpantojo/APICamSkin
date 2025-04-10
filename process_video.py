@@ -11,7 +11,7 @@ import os
 
 # Nesta pasta tem exatamente o estilo da figura 8 do artigo.
 # Curva sem os fits/ pontos em vermelho escuro/ hemoglobin component
-sys.path.append('C:/Users/RaquelPantojo/Desktop/API_pyCRT/rpsbpyCRT')
+sys.path.append('C:/Users/raque/OneDrive/Documentos/GitHub/APICamSkin/rpsbpyCRT')
 from src.rpsbpyCRT import PCRT
 
 def process_video(video_path):
