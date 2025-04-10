@@ -1,0 +1,1 @@
+pCRT: 3.77, incerteza: 0.89
